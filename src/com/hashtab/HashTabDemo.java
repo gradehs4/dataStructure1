@@ -146,6 +146,7 @@ class  EmpLinkedList{
             curEmp = curEmp.next;//后移，遍历
         }
         System.out.println();
+        //
     }
 
 }
