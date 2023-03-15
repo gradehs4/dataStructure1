@@ -97,7 +97,7 @@ class Emp{
         this.name = name;
     }
 }
-
+//
 //创建EmpLinkedList，表示链表
 class  EmpLinkedList{
 
